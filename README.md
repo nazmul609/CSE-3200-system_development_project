@@ -1,9 +1,10 @@
 # CSE-3200-System_Development_project-
 >> Deep Learning Techniques in Cyclone Detection with Cyclone Eye Localization based on Satellite Images.
 >> Deploy Model to Flask Web Service 
->> 
->> Preprocessing Technique:
->> 
+
+
+Preprocessing Technique:
+ 
 ![preprocesss](https://github.com/nazmul609/CSE-3200-system_development_project/assets/69470912/2f5f4869-40b6-486f-8f0a-5150288b8445)
 Cyclone Eye Detectin Process:
 
